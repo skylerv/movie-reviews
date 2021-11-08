@@ -5,7 +5,7 @@ This Movie Review application is my first project using the MERN stack! I have y
 [Beginning MERN Stack: Build and Deploy a Full Stack MongoDB, Express, React, Node.js App](https://www.amazon.com/Beginning-MERN-Stack-MongoDB-Express/dp/B0979MGJ5J/ref=asc_df_B0979MGJ5J/?tag=hyprod-20&linkCode=df0&hvadid=533317510260&hvpos=&hvnetw=g&hvrand=9364796927991666569&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033471&hvtargid=pla-1366262022869&psc=1)
 
 
-*11/7/2021 - Building the Backend*
+## *11/7/2021 - Building the Backend*\
 Today, I began building the backend for the movie review application. Prior to this, I had little to no experience building backends, so starting this was very exciting. The book is very straightforward, download this, download that, copy the code. However, the author gives a good enough explanation for me to follow along. I wanted to understand the code I was writing as much as possible, so I did take some time to research more on Node.js and Express as I proceeded through these chapters. 
 
 I started off with the database, MongoDB Atlas, which leverages the cloud. After filling the database in with sample data, I created my project in VS Code and began writing the server. The server was to use CORS and Express as the middleware. After the server was finished, I proceeded with the index.js file, which was to act as the driver code for the application. In here, the application builds a connection with the database, gets a reference to the "movies" collection, and begins listening on the specified port. Afterwards, I built some of the API and DAO that the application will leverage in fetching the data from the database.
