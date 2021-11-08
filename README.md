@@ -3,8 +3,8 @@
 This Movie Review application is my first project using the MERN stack! I have yet to take on a tech stack and decided to learn with a step-by-step tutorial from "Beginning MERN Stack" written by Greg Lim. A link to the book will be provided below. Updates on my progress, accomplishments, and challenges during this little side project will be provided here in this readme, so be sure to check in once in a while (or read the full blog when it is done!). My plan after completing the tutorial is turning this into an Anime Log/Watchlist. One of my interests is watching anime and I actively use a different website to track all the anime I have watched. Since this movie review application works somewhat similarly to that website, I feel that would be a great segway into diving deeper into the MERN stack! Hopefully in the end, I will publish this for public use! Enjoy the updates until then!
 
 ## *Links!*
-[LinkedIn](https://www.linkedin.com/in/skylervez/)\
-[Website](https://skylervez.com/)\
+[LinkedIn](https://www.linkedin.com/in/skylervez/)  
+[Website](https://skylervez.com/)  
 
 [Beginning MERN Stack: Build and Deploy a Full Stack MongoDB, Express, React, Node.js App](https://www.amazon.com/Beginning-MERN-Stack-MongoDB-Express/dp/B0979MGJ5J/ref=asc_df_B0979MGJ5J/?tag=hyprod-20&linkCode=df0&hvadid=533317510260&hvpos=&hvnetw=g&hvrand=9364796927991666569&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033471&hvtargid=pla-1366262022869&psc=1)
 
